@@ -1,0 +1,12 @@
+{
+    "name": "apptrian/image-optimizer",
+    "type": "magento-module",
+    "license": "OSL-3.0",
+    "description": "Optimize your images, reduce their file size without losing image quality and speed up your site.",
+     "authors": [
+         {
+             "name": "Apptrian",
+             "email": "apptrian@yahoo.com" 
+         }
+      ],
+}
